@@ -1,0 +1,6 @@
+Check user post bring all comments with the user_ID when the user click the post
+    ●Create a test that calling user post information that belongs to post's comments.
+    ●Create a code that number of comments and comment's owner id are collect to the server data and the user screen.
+    ●Create a function that refresh(update) the server data to bring most recent data from the server.
+    ●Create a test that calls the above, compare user data and server data are equal.
+    ●Show all cooments that post has on the server side.
